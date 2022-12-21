@@ -1,0 +1,6 @@
+        SELECT 
+            * 
+        FROM 
+            movie
+        where
+            movie_id = ${movieId};
